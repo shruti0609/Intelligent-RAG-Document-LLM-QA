@@ -1,2 +1,1 @@
-# Intelligent-RAG-Document-LLM-QA
-Intelligent-RAG-Document-LLM-QA
+# intelligent-rag-document-qa
